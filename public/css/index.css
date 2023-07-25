@@ -1,4 +1,4 @@
-.btn:hover {
+.lesson-four-task-one .btn:hover {
     color:red;
     background: yellow
 }
@@ -9,7 +9,7 @@
 #lesson-four-task-three .link:visited {
     color:yellow
   }
-#sidebar .link {
+#sidebar .link:link {
 color: red
 }
 .lesson-four-task-five .btn:active {
@@ -53,10 +53,10 @@ background: blue;
     background: red;
 }
 .lesson-four-task-sixteen input:out-of-range {
-    background: red;
+    color: red;
 }
 .lesson-four-task-seventeen input:in-range {
-    background: red;
+    color: red;
 }
 .lesson-four-task-eighteen input:placeholder-shown {
     background: red;
